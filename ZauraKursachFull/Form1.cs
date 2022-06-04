@@ -25,9 +25,9 @@ namespace ZauraKursachFull
             {
                 mas = MainTB.Text.Split(' ').Select(int.Parse).ToArray();
             }
-            catch(Exception ex)
+            catch
             {
-                MessageBox.Show("Вы что-то сделали не так" + ex);
+                MessageBox.Show("Вы что-то сделали не так");
                 return;
             }
                 MessageBox.Show(

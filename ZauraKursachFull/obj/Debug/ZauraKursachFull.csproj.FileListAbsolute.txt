@@ -1,0 +1,10 @@
+C:\Users\bogda\source\repos\ZauraKursachFull\ZauraKursachFull\bin\Debug\ZauraKursachFull.exe.config
+C:\Users\bogda\source\repos\ZauraKursachFull\ZauraKursachFull\bin\Debug\ZauraKursachFull.exe
+C:\Users\bogda\source\repos\ZauraKursachFull\ZauraKursachFull\bin\Debug\ZauraKursachFull.pdb
+C:\Users\bogda\source\repos\ZauraKursachFull\ZauraKursachFull\obj\Debug\ZauraKursachFull.csproj.AssemblyReference.cache
+C:\Users\bogda\source\repos\ZauraKursachFull\ZauraKursachFull\obj\Debug\ZauraKursachFull.Form1.resources
+C:\Users\bogda\source\repos\ZauraKursachFull\ZauraKursachFull\obj\Debug\ZauraKursachFull.Properties.Resources.resources
+C:\Users\bogda\source\repos\ZauraKursachFull\ZauraKursachFull\obj\Debug\ZauraKursachFull.csproj.GenerateResource.cache
+C:\Users\bogda\source\repos\ZauraKursachFull\ZauraKursachFull\obj\Debug\ZauraKursachFull.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\ZauraKursachFull\ZauraKursachFull\obj\Debug\ZauraKursachFull.exe
+C:\Users\bogda\source\repos\ZauraKursachFull\ZauraKursachFull\obj\Debug\ZauraKursachFull.pdb
